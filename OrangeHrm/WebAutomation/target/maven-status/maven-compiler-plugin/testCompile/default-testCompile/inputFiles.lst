@@ -1,0 +1,9 @@
+D:\OrangeHrm\WebAutomation\src\test\java\com\web_taf\tests\BaseTest.java
+D:\OrangeHrm\WebAutomation\src\test\java\com\web_taf\properties_reading\ReadPropertiesFile.java
+D:\OrangeHrm\WebAutomation\src\test\java\com\web_taf\pages\Admin.java
+D:\OrangeHrm\WebAutomation\src\test\java\com\web_taf\pages\Login.java
+D:\OrangeHrm\WebAutomation\src\test\java\com\web_taf\pages\BasePage.java
+D:\OrangeHrm\WebAutomation\src\test\java\com\web_taf\pages\Dashboard.java
+D:\OrangeHrm\WebAutomation\src\test\java\com\web_taf\tests\AdminTabStepdefs.java
+D:\OrangeHrm\WebAutomation\src\test\java\com\web_taf\tests\Runner.java
+D:\OrangeHrm\WebAutomation\src\test\java\com\web_taf\tests\HooksHandler.java

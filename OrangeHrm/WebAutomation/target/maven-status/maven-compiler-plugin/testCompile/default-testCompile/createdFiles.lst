@@ -1,0 +1,9 @@
+com\web_taf\pages\BasePage.class
+com\web_taf\pages\Admin.class
+com\web_taf\tests\AdminTabStepdefs.class
+com\web_taf\tests\HooksHandler.class
+com\web_taf\pages\Login.class
+com\web_taf\tests\BaseTest.class
+com\web_taf\properties_reading\ReadPropertiesFile.class
+com\web_taf\tests\Runner.class
+com\web_taf\pages\Dashboard.class
