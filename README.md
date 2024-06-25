@@ -4,11 +4,17 @@ This is a comprehensive automation framework for testing the OrangeHRM applicati
 
 ### Prerequisites
 To use the Framework, ensure that you have the following prerequisites installed:
+
 Java 11 or higher
+
 Maven build tool
+
 Selenium WebDriver
+
 TestNG
+
 Cucumber
+
 Allure reporting tool
 
 ### Installation:
