@@ -14,11 +14,15 @@ Allure reporting tool
 ### Installation:
 
 Clone this repository: git clone https://github.com/MostafaNasr25/orangeHRM-taf
+
 Install the required dependencies: mvn clean install
 
 ### Features:
 
 Page Object Model (POM): Improves code maintainability and reusability.
+
 Allure Reports: Generate detailed and interactive test reports.
+
 Cucumber BDD: Focus on business-readable test scenarios.
+
 TestNG: Run and manage tests effectively.
